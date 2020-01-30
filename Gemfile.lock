@@ -86,7 +86,7 @@ GEM
       airbrake-ruby (~> 1.0)
     airbrake-ruby (1.0.4)
     amq-protocol (2.0.1)
-    angularjs-file-upload-rails (1.1.6)
+    angularjs-file-upload-rails (2.4.1)
     annotator (0.0.10)
       activerecord (>= 3.0)
     arel (6.0.4)
@@ -645,7 +645,7 @@ DEPENDENCIES
   activemerchant
   acts-as-taggable-on (= 3.4.2)
   airbrake (~> 5.0)
-  angularjs-file-upload-rails (~> 1.1.0)
+  angularjs-file-upload-rails (~> 2.4.1)
   annotator
   autoprefixer-rails
   better_errors
