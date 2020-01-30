@@ -84,7 +84,7 @@ group :development do
   gem 'capistrano-rbenv', '~> 2.0'
   gem 'meta_request'
   gem 'pry-rails'
-  gem 'rspec-rails', '3.2.1'
+  gem 'rspec-rails', '3.9.0'
   #gem 'rspec-retry'
   # TODO: Upgradming to Rails 4.1 introduces a built in mechanism:
   #       http://api.rubyonrails.org/classes/ActiveSupport/Testing/TimeHelpers.html
