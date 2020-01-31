@@ -107,7 +107,7 @@ GEM
     builder (3.2.4)
     bunny (2.2.2)
       amq-protocol (>= 2.0.1)
-    byebug (8.2.2)
+    byebug (11.1.1)
     cancan (1.6.10)
     capistrano (3.1.0)
       i18n
