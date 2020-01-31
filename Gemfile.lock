@@ -79,8 +79,8 @@ GEM
       minitest (~> 5.1)
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
-    acts-as-taggable-on (3.4.2)
-      activerecord (>= 3.2, < 5)
+    acts-as-taggable-on (4.0.0)
+      activerecord (>= 4.0)
     addressable (2.4.0)
     airbrake (5.0.4)
       airbrake-ruby (~> 1.0)
@@ -644,7 +644,7 @@ PLATFORMS
 
 DEPENDENCIES
   activemerchant
-  acts-as-taggable-on (= 3.4.2)
+  acts-as-taggable-on (= 4.0.0)
   airbrake (~> 5.0)
   angularjs-file-upload-rails (~> 2.4.1)
   annotator
